@@ -27,7 +27,7 @@ We have obtained satisfactory results showing that AI techniques have great pote
 
 ## 📄 Thesis Document
 
-📄 Read the full thesis here: [[Thesis PDF](https://github.com/zinelabidineleghelimi/ProstateCancerManagement/blob/main/ThesisMaster.pdf)](./ThesisMster.pdf)  
+📄 Read the full thesis here: [Thesis PDF](https://github.com/zinelabidineleghelimi/ProstateCancerManagement/blob/main/ThesisMaster.pdf)
 
 ---
 
